@@ -15,7 +15,7 @@ A beautiful, modern Pokedex application built with Vanilla JavaScript and Vite. 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://dipak-chh12.github.io/pokedex) *(Deploy to GitHub Pages to activate)*
+[View Live Demo](https://pokedex-chi-ashy-65.vercel.app/)
 
 ## 🛠️ Technologies Used
 
